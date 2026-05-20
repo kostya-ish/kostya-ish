@@ -31,6 +31,8 @@ TestIT, Yandex Tracker, Postman, Swagger, JSON Schema, Kibana, DBeaver, SQL (Pos
   > Составил тест-кейсы по измененным требованиям, подготовил регрессионный чек-лист с mobile-specific проверками, провел тестирование на Android-эмуляторе и оформил баг-репорты.
 - [Тестирование API приложения "Яндекс Прилавок"](https://docs.google.com/spreadsheets/d/1wFt6ukjFivn9Q1oaV_SeE2zLnANfkz8AdLGmq81Mxmc/edit?usp=drive_link)
   > Составил чек-лист для 4 эндпоинтов с применением КЭ/ГЗ, провел тестирование в Postman и оформил баг-репорты по найденным дефектам.
+- [Автоматизация тестирования API для сервиса заказов "Яндекс Прилавок"](https://github.com/kostya-ish/PracticumFinalProject)
+  > Разработал автотест для проверки сценария создания и получения заказа по треку. Реализовал сохранение номера трека из ответа на первый запрос и передачу его в следующий эндпоинт, настроил проверку кода ответа (status code 200).
   <!--#### С моим резюме можно ознакомится тут(ссылка на резюме)-->
 <!--
 **kostya-ish/kostya-ish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
